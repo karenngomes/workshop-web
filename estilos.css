@@ -1,0 +1,45 @@
+* {
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 40px;
+}
+
+body {
+    /* background-color: blue; */
+}
+
+p {
+    border: red 1px solid;
+    border-radius: 5px;
+    color:white;
+}
+
+#principal {
+    background-color: #8e44ad;
+    color: black;
+    font-weight: bolder;
+    padding: 16px;
+    text-align: right;
+    height: 100px;
+    /* opacity: 0.5; */
+    /* position: fixed; */
+    /* top: 0; */
+}
+
+.espacamento {
+    margin: 10px;
+}
+
+.chave {
+    background-color: blue;
+}
+
+#divMaior {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-transform: lowercase;
+    text-decoration: none;
+    
+}
